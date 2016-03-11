@@ -1,0 +1,10 @@
+Package: skplot
+Title: One integrated function for various plotting functions
+Version: 0.0.0.9000
+Authors@R: person("Shubham", "Khanve", email = "shubham.khanve@yahoo.com", role = c("aut", "cre"))
+Description: It provides a single function to plot various plots from various packages and their functions.
+Depends:
+    R (>= 3.2.3)
+License: Private
+LazyData: true
+RoxygenNote: 5.0.1.9000
